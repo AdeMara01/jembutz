@@ -68,15 +68,15 @@ logo='''
 \033[1;91m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈☜☜☜☜☜☜\033[0;37m\033[0;37m☜☜☜☜☜┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 \033[1;91m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[0;37m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 \033[1;91m ╱▔▔▔▔┊┊┊┊▔▔▔▔╲☞☞☞☞☞☞\033[0;37m☜☜☜☜☜╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-\033[1;91m..............\033[1;96mWAHYU TUTORIAL\033[0;37m.............
+\033[1;91m..............\033[1;96mADE MARA\033[0;37m.............
 \033[1;91m................\033[1;96m✬🄵🄰🄲🄴🄱🄾🄾🄺✬\033[0;37m...............
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Author     : Wahyu Candra Pratama
-\033[1;92m☞ Facebook : Wahyu Candra Pratama
-\033[1;95m☞ YouTube    : Wahyu Tutorial
-\033[1;93m☞ Whatsapp : 082282130708
+\033[1;91m☞ Author     : Ade Mara Gans:v
+\033[1;92m☞ Facebook : Ade Mara
+\033[1;95m☞ YouTube    : Ade Mara
+\033[1;93m☞ Whatsapp : 085697750717
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -147,9 +147,9 @@ def menu():
 	print
 	print (S + 50*'-')
 	print
-	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update Wahyu Tutorial Tools')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' WAHYU TUTORIAL')
+	print (S + '[' + P + '☞1' + S + ']' + S + ' Brutal Account Facebook')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update ADE MARA Tools')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' ADE MARA')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Keluar')
 	print
@@ -166,8 +166,8 @@ def mb():
 	elif bm =='1':
 		pak()
 	elif bm =='2':
-	    os.system('rm -rf $HOME/Wahyu-Tutorial')
-	    os.system('cd $HOME && git clone https://github.com/Wahyoe14/jembutz')
+	    os.system('rm -rf $HOME/Ade-Mara')
+	    os.system('cd $HOME && git clone https://github.com/Ademara01/jembutz')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
@@ -181,15 +181,15 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆90%')
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Login Ke Akun Baru')
-	    psb('facebook id wahyu candra pratama')
-	    psb('WellCome To Wahyu Tutorial')
-	    psb('Congratulations Wahyu Tutorial Tools Has Been Updated Successfully')
-	    psb('🔓User Name☆ wahyu')
+	    psb('facebook id Ade Mara')
+	    psb('WellCome To Ade Mara')
+	    psb('Congratulations Ade Mara Tools Has Been Updated Successfully')
+	    psb('🔓User Name☆ Ade Mara')
 	    psb('🔓Password ☆ indonesia')
-	    psb('Subscrbe Channel Yutube Ku Wahyu Tutorial')
+	    psb('Subscrbe Channel Yutube Ku Ade Mara Tutorial')
 	    psb('Silahkan Login Kembali')
 	elif bm =='3':
-	    os.system('xdg-open https://www.youtube.com/channel/UCn9x-lhJSeoyYHfSRdUVWmA')
+	    os.system('xdg-open https://www.youtube.com/channel/UCm44L0CGNh74uc3uti_L3BQ')
 	    menu()
 	elif bm =='4':
 		psb('Token Has Been Removed')
@@ -354,7 +354,7 @@ def pb():
 	print
 	print(S+'Login Akun Yang Cp Dalam Waktu 7 Hari ')
 	print(Y+'Total '+G+'OK'+S+'/'+P+'CP'+S+' = '+G+str(len(oks))+S+'/'+R+str(len(cps)))
-	print(S+'Wahyu Candra')     
+	print(S+'Ade Mara')     
 	print
 	raw_input(R + 'Back')
 	os.system('python2 jembutz')
